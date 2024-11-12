@@ -4,3 +4,5 @@ PyPDF2
 langchain
 docx2txt
 streamlit-lottie
+langchain-google-genai
+faiss-cpu
